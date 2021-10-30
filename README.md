@@ -1,14 +1,5 @@
 ### Hi, I'm Gabriel &nbsp; :shipit:
 
-## Contact
-
-<!-- https://github.com/alexandresanlim/Badges4-README.md-Profile -->
-<!-- https://github.com/alexandresanlim -->
-
-
-[<img align="left"  alt="Mail" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img align="left"  alt="Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
-
 <br/><br/>
 
 ## Tech
@@ -27,9 +18,19 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabelonio&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
+## Contact
+
+<!-- https://github.com/alexandresanlim/Badges4-README.md-Profile -->
+<!-- https://github.com/alexandresanlim -->
+
+
+[<img align="left"  alt="Mail" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left"  alt="Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
+
 [linkedin]: https://www.linkedin.com/in/gecastillor/
 [github]: https://github.com/Gabelonio
 [gmail]: mailto:gecramirez18@gmail.com
+
 
 
 
