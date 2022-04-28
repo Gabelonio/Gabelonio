@@ -1,5 +1,6 @@
 ### Hi, I'm Gabriel &nbsp; :shipit:
 Computer science student, dedicated, persistent, team player and looking for new experiences, good organizational skills in various methods.
+
 Currently working on improving JavaScript skills :computer: 
 
 ## Tech
