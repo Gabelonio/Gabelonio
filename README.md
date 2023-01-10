@@ -19,7 +19,8 @@ Currently working on improving JavaScript skills :computer:
 <br/>
 ### DB
 [<img align="left"  alt="FireBase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />][github]
-[<img align="left"  alt="SQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />][github]
+[<img align="left"  alt="SQL" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />][github]
+
 
 <br/><br/>
 ## Languages
